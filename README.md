@@ -7,17 +7,20 @@
 
 - 👯 I’m looking to collaborate with anyone on any project.
 ## My Skill Set  
+<table><td>
 
 ### Frontend  
+
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-</div></td><td valign="top" width="33%">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Bootstrap" height="50" />  
-</div></td><td valign="top" width="33%">
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" height="50" />  
+</div></td>
+
+
+<td valign="top" width="33%">
 
 
 ### Backend  
@@ -25,19 +28,25 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 </div>  
-
+</td>
+<td valign="top" width="33%">
 
 
 ### Database  
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div></td><td valign="top" width="33%">
+</div></td>
+
+<td valign="top" width="33%">
 
 ### Programming Language  
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>  
+</td>
+
+<td valign="top" width="33%">
 
 
 
@@ -53,6 +62,15 @@
 </div></td></tr></table>  
 
 <br/>  
+
+ 
+
+## 🏆 My Github Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=idrissiradi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi&theme=tokyonight)
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/idrissiradi" target="_blank">
@@ -64,10 +82,4 @@
 </div>  
   
 
-<br/> 
-## 🏆 My Github Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=idrissiradi&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi&theme=tokyonight)
-
+<br/>
