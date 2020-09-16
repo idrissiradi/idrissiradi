@@ -1,25 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="undefined" width="600" />
-</div>  
-  
-
-### <div align="center">I'm ahmed🚀, I am a web developer based in Marrakech 👨‍💻</div>  <br>
-  
-
+### <div align="center">Hi there 👋 I'm ahmed🚀, I am a web developer based in Marrakech 👨‍💻</div>  <br>
 - 🌱 I’m currently learning Python.  
   
-
 - ❓ Ask me about anything  
   
+- 📫 How to reach me idrissiradi@gmail.com 
 
-- 📫 How to reach me idrissiradi@gmail.com  
-  
-
-<br/>  
-
-
+- 👯 I’m looking to collaborate with anyone on any project.
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -29,6 +16,9 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div></td><td valign="top" width="33%">
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Bootstrap" height="50" />  
+</div></td><td valign="top" width="33%">
+
 
 ### Backend  
 <div align="center">  
@@ -57,11 +47,12 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Linux" height="50" />
+
+
 </div></td></tr></table>  
 
 <br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/idrissiradi" target="_blank">
@@ -73,32 +64,10 @@
 </div>  
   
 
-<br/>  
+<br/> 
+## 🏆 My Github Stats:
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=idrissiradi&show_icons=true&theme=tokyonight)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=idrissiradi&show_icons=true&count_private=true" align="center" /></div>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi&theme=tokyonight)
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>
-
-## Most Used Languages
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi&layout=compact&hide=html" alt="idrissiradi" align="center"/></div>
-<br/>
-
-
-## Visitor Counter  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=idrissiradi&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
