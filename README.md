@@ -1,6 +1,5 @@
 ### <div align="center">Hi there 👋 I'm ahmed🚀, I am a web developer based in Marrakech 👨‍💻</div>  <br>
-- 🌱 I’m currently learning Python.  
-  
+ 
 - 📫 How to reach me idrissiradi@gmail.com 
 
 <br/>  
@@ -14,6 +13,4 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>
