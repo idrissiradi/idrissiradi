@@ -1,4 +1,4 @@
-### <div align="center">Hi there 👋 I'm ahmed🚀, I am a web developer based in Marrakech 👨‍💻</div>  <br>
+### <div align="center">Hi there 👋 I'm ahmed🚀👨‍💻</div>  <br>
  
 - 📫 How to reach me idrissiradi@gmail.com 
 
