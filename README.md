@@ -1,10 +1,10 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-
+---
 ### Hi there and welcome to my GitHub page 👋
 ### I'm ahmed 👨‍💻
 - 📫 How to reach me idrissiradi@gmail.com 
 <br/>  
-
+---
 ## What do I do?
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -14,7 +14,7 @@
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-ff2d20?logo=laravel&logoColor=white&style=for-the-badge" />
 </p>
 <br/>
-
+---
 ## Top languages
 <div>
 <img
@@ -22,7 +22,7 @@
 />
 </div>
 <br/>
-
+---
 ## Connect with me  
 <p>
 <a href="https://twitter.com/idrissiradi">
