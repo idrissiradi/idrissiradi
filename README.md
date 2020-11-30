@@ -24,9 +24,10 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi"
 />
 </div>
-<br/>
+
 ---
-## Connect with me  
+
+### Connect with me  
 <p>
 <a href="https://twitter.com/idrissiradi">
   <img
