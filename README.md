@@ -1,5 +1,4 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-<br/>
 
 ### Hi there and welcome to my GitHub page 👋
 ### I'm ahmed 👨‍💻
