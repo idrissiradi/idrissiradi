@@ -3,9 +3,10 @@
 ### Hi there and welcome to my GitHub page 👋
 ### I'm ahmed 👨‍💻
 - 📫 How to reach me idrissiradi@gmail.com 
-<br/>  
+ 
 ---
-## What do I do?
+
+### What do I do?
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -13,9 +14,11 @@
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-ff2d20?logo=laravel&logoColor=white&style=for-the-badge" />
 </p>
-<br/>
+
+
 ---
-## Top languages
+
+### Top languages
 <div>
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi"
