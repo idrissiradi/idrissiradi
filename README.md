@@ -1,8 +1,6 @@
-<h1 align="center">Hey 👋 My name is Ahmed.</h1>
+<br clear="both">
 
-###
-
-<h2 align="center">I'm a Back end & web developer from Morocco.</h2>
+<h1 align="center">Hey 👋 My name is Ahmed.<br> I'm a Back end & web developer from Morocco.</h1>
 
 ###
 
