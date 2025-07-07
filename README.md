@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/idrissi-radi-ahmed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
@@ -16,8 +14,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">Exploring the endless possibilities of code. Let's build something great together! 💻✨</h3>
 
