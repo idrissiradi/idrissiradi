@@ -91,3 +91,19 @@
 </div>
 
 ###
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=idrissiradi&show_icons=true&theme=dark&commits_year=2026" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+
+###
