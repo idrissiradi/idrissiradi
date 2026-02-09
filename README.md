@@ -10,22 +10,27 @@
 </p>
 
 ###
+
 <!-- Social icons section -->
 <p align="center">
+  <!-- Portfolio -->
   <a href="https://idradi.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio logo" />
   </a>
-  <span style="display:inline-block;width:8px;"></span>
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/idrissi-radi-ahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
   </a>
-  <span style="display:inline-block;width:8px;"></span>
+
+  <!-- X / Twitter -->
   <a href="https://x.com/idrissiradi">
-    <img src="https://img.shields.io/badge/X-000000.svg?logo=x-twitter&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x-twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X logo" />
   </a>
-  <span style="display:inline-block;width:8px;"></span>
+
+  <!-- Email -->
   <a href="mailto:idrissiradi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Email logo" />
   </a>
 </p>
 
