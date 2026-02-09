@@ -1,8 +1,33 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 I'm Ahmed</h1>
 
 ###
 
-<p align="center">My name is Ahmed - Full Stack Developer moving into ML Engineering and Data Science, from Morocco.</p>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Building+with+Python+and+modern+tools" 
+            alt="Typing SVG" />
+    </a>
+</p>
+
+###
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://idradi.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <span style="display:inline-block;width:8px;"></span>
+  <a href="https://linkedin.com/in/idrissi-radi-ahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <span style="display:inline-block;width:8px;"></span>
+  <a href="https://x.com/idrissiradi">
+    <img src="https://img.shields.io/badge/X-000000.svg?logo=x-twitter&logoColor=white" alt="X" />
+  </a>
+  <span style="display:inline-block;width:8px;"></span>
+  <a href="mailto:idrissiradi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ###
 
@@ -12,9 +37,11 @@
 
 <p align="left">
 🎓 Bachelor's student in AI, Machine Learning & Big Data at ENSA Khouribga<br>
-🔬 Currently learning: Machine Learning with TensorFlow and Scikit-learn, Data Analysis, and Statistical techniques<br>
+💼 1.5+ years of experience in full-stack web development<br>
 💻 Background: Full stack development with Python, JavaScript, and modern frameworks<br>
-🎯 Goal: Building production-ready ML solutions and data-driven applications<br>
+🔬 Currently learning: Machine Learning, Data Science, and Data Analysis<br>
+🎯 Goal: Combining software engineering with data science to build intelligent applications<br>
+🌍 Based in Marrakech, Morocco -- Open to remote opportunities<br>
 🎲 Fun fact: When I'm not coding, you'll find me hiking, running, or capturing moments
 </p>
 
@@ -95,15 +122,11 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=idrissiradi&show_icons=true&theme=dark&commits_year=2026" />
-      </a>
-    </td>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=idrissiradi&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/></a>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi&layout=compact&theme=dark" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/></a>
     </td>
   </tr>
 </table>
-
 
 ###
