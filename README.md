@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Building+with+Python+and+modern+tools" 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Science+%26+Engineering+Student;Building+ML+solutions+and+data+pipelines;Python+|+Spark+|+Cloud+|+React" 
             alt="Typing SVG" />
     </a>
 </p>
@@ -70,7 +70,7 @@
     <img width="5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
     <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="hadoop logo"  />
 </div>
 
 ###
