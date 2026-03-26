@@ -1,128 +1,106 @@
-<h1 align="center">Hey 👋 I'm Ahmed</h1>
+<div align="center">
+ 
+# Hey 👋 I'm Ahmed Idrissi Radi
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=550&lines=ML+Engineer+in+the+Making;Data+Science+%26+Data+Engineering;PySpark+%7C+MLflow+%7C+FastAPI+%7C+Docker;Python+%7C+Big+Data+%7C+Pipelines)](https://git.io/typing-svg)
+ 
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=2DD4BF&logoColor=white&labelColor=&style=for-the-badge)](https://idradi.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/idrissi-radi-ahmed/)
+[![X](https://img.shields.io/static/v1?message=X&logo=x-twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/idrissiradi)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:idrissiradi@gmail.com)
+ 
+</div>
 
-###
+---
+ 
+## 🧑‍💻 About Me
 
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Data+Science+%26+Engineering+Student;Building+ML+solutions+and+data+pipelines;Python+|+MLflow+|+Big+Data+|+Pipelines" 
-            alt="Typing SVG" />
-    </a>
+🎓 **Final-year student** — Licence Professionnelle in AI, Machine Learning & Big Data at **ENSA Khouribga**
+ 
+💼 **2+ years** of professional experience in full-stack web development (FastAPI, Django, Laravel, React)
+ 
+🔀 **Transitioning into ML Engineering & Data Engineering** — building real pipelines, not just notebooks
+ 
+🔬 **Currently:**Seeking a **PFE internship (May–August 2026)**
+ 
+🌍 **Based in Marrakech, Morocco** — open to remote and on-site opportunities
+ 
+📸 **Outside of code:** hiking trails, running, and photography
+ 
+---
+
+## 🛠️ Tech Stack
+ 
+### 🤖 Machine Learning & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=py" alt="python"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" alt="scikit-learn"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="numpy"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="pandas"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" alt="jupyter"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" alt="pyspark"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" alt="hadoop"/>
 </p>
-
-###
-
-<!-- Social icons section -->
-<p align="center">
-  <!-- Portfolio -->
-  <a href="https://idradi.com">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio logo" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/idrissi-radi-ahmed/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
-  </a>
-
-  <!-- X / Twitter -->
-  <a href="https://x.com/idrissiradi">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x-twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X logo" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:idrissiradi@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Email logo" />
-  </a>
+ 
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=django" alt="django"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" alt="express"/>
 </p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-🎓 Bachelor's student in AI, Machine Learning & Big Data at ENSA Khouribga<br>
-💼 1.5+ years of experience in full-stack web development<br>
-💻 Background: Full stack development with Python, JavaScript, and modern frameworks<br>
-🔬 Currently learning: Machine Learning, Data Science, and Data Analysis<br>
-🎯 Goal: Combining software engineering with data science to build intelligent applications<br>
-🌍 Based in Marrakech, Morocco -- Open to remote opportunities<br>
-🎲 Fun fact: When I'm not coding, you'll find me hiking, running, or capturing moments
+ 
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
 </p>
+ 
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" alt="react"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss"/>
+</p>
+ 
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" alt="airflow"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="git"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="github"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/>
+</p>
+ 
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<!-- ML/Data Science - PRIMARY (biggest) -->
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="sklearn logo" />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="hadoop logo"  />
-</div>
-
-###
-
-<!-- Backend & Databases - SECONDARY (medium) -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35" alt="SQL logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
-</div>
-
-###
-
-<!-- Frontend - TERTIARY (smaller) -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-</div>
-
-###
-
-<!-- Tools - TERTIARY (smaller) -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-</div>
-
-###
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -134,4 +112,8 @@
   </tr>
 </table>
 
-###
+---
+ 
+<div align="center">
+*"Build things that work. Understand why they work. Improve from there."*
+</div>
