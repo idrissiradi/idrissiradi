@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hey 👋 I'm Ahmed Idrissi Radi
+# Hey 👋 I'm Ahmed
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=550&lines=ML+Engineer+in+the+Making;Data+Science+%26+Data+Engineering;PySpark+%7C+MLflow+%7C+FastAPI+%7C+Docker;Python+%7C+Big+Data+%7C+Pipelines)](https://git.io/typing-svg)
  
