@@ -21,7 +21,7 @@
  
 🔀 **Transitioning into ML Engineering & Data Engineering** — building real pipelines, not just notebooks
  
-🔬 **Currently:**Seeking a **PFE internship (May–August 2026)**
+🔬 **Currently:**Seeking a **internship (May–August 2026)**
  
 🌍 **Based in Marrakech, Morocco** — open to remote and on-site opportunities
  
