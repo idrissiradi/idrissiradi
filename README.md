@@ -43,16 +43,3 @@
 </table>
 
 ---
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=2DD4BF&logoColor=white&labelColor=&style=for-the-badge)](https://idradi.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/idrissi-radi-ahmed/)
-[![X](https://img.shields.io/static/v1?message=X&logo=x-twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/idrissiradi)
-[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:idrissiradi@gmail.com)
-
-</div>
-
----
