@@ -1,9 +1,8 @@
 <div align="center">
  
 # Hey 👋 I'm Ahmed
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;PyTorch+%7C+HuggingFace+%7C+MLflow+%7C+FastAPI;NLP+%7C+Computer+Vision+%7C+Big+Data;PySpark+%7C+Hadoop+%7C+Docker)](https://git.io/typing-svg)
- 
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Machine+Learning+%26+Data+Science;Deep+Learning+%26+Generative+AI;PyTorch+%7C+Hugging+Face+%7C+Transformers;NLP+%7C+Computer+Vision+%7C+LLMs;PySpark+%7C+FastAPI+%7C+MLflow+%7C+Docker)](https://git.io/typing-svg)
 </div>
 
 ---
