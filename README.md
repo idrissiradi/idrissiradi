@@ -10,18 +10,9 @@
  
 ## About Me
 
-- Data Scientist & ML Engineer  
-- Focused on NLP, Computer Vision & ML systems  
+- AI & Machine Learning Engineer 
+- Full-Stack development experience 
 - Open to opportunities & collaboration
- 
----
-
-## Tech Stack
- 
-**Machine Learning:** PyTorch • Scikit-learn • HuggingFace • XGBoost  
-**Data Engineering:** Pandas • NumPy • PySpark • SQL  
-**MLOps:** MLflow • Docker • FastAPI  
-**Core Tools:** Git • Linux 
  
 ---
 
