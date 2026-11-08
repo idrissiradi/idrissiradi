@@ -20,13 +20,13 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=idrissiradi&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/>
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api?username=idrissiradi&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=idrissiradi&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/>
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=idrissiradi&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/>
       </a>
     </td>
   </tr>
